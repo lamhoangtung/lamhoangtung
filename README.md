@@ -8,4 +8,4 @@ I'm an undergrad Computer Science student in Vietnam 🇻🇳🇻🇳🇻🇳, i
 
 I’m currently an **AI Researcher/Engineer** at [Techainer Inc](https://techainer.com), which provide various AI solutions for businesses. My work is mostly about **Computer Vision**.
 
-The best way to contact me is usually through [Facebook](https://www.facebook.com/lam.hoangtung.69) or Email.
+The best way to contact me is usually through [Facebook](https://www.facebook.com/lam.hoangtung.69) or [Email](lamhoangtung.vz@gmail.com).
