@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lamhoangtung&show_icons=true&theme=default">
 </a>
 
-I’m a **Machine Learning Engineer** at [WorldQuant](https://worldquant.com), an industry-leading international hedge fund, and quantitative investment management firm.
+I’m a **Senior Machine Learning Engineer** at [WorldQuant](https://worldquant.com), an industry-leading international hedge fund, and quantitative investment management firm.
 
 Before that, I was the **Co-Founder & CAIO** of a start-up called [Techainer](https://techainer.com), which provides various AI solutions for businesses.
 
